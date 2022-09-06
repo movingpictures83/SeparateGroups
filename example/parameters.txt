@@ -1,0 +1,9 @@
+abundancefile	level-genus.csv
+out1	abundance_users.csv
+out2	abundance_nonusers.csv
+dosplit	True	
+metadata	metadata.txt
+group	COCAINE USE
+group1	User
+group2	Non-User
+ClientID	CLIENT IDENTIFIER

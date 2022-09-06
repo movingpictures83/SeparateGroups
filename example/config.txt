@@ -1,0 +1,2 @@
+Prefix plugins/SeparateGroups/example
+Plugin SeparateGroups inputfile parameters.txt outputfile .
